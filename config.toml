@@ -444,30 +444,30 @@ DefaultContentLanguage = "en"
         [languages.fr.params.skills]
         enable = true
         icon = "fa-rocket"
-        title = "Compétences Informatiques"
+        title = "Compétences"
 
             [[languages.fr.params.skills.list]]
-            skill = "Software Development"
+            skill = "Développement de logiciels"
             level = "60%"
 
             [[languages.fr.params.skills.list]]
-            skill = "Web Development"
+            skill = "Développement web"
             level = "70%"
 
             [[languages.fr.params.skills.list]]
-            skill = "UX/UI Design"
+            skill = "Design UX/UI"
             level = "90%"
 
             [[languages.fr.params.skills.list]]
-            skill = "Web Design"
+            skill = "Design Web"
             level = "90%"
 
             [[languages.fr.params.skills.list]]
-            skill = "Agile Methodologies"
+            skill = "Methodologies Agile"
             level = "40%"
 
             [[languages.fr.params.skills.list]]
-            skill = "User Stories Definition"
+            skill = "User Stories "
             level = "50%"
 
         # Profile section
