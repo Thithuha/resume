@@ -56,7 +56,7 @@ DefaultContentLanguage = "en"
         class = "website"
         icon = "fa-globe"
         url = "//thithuha.github.io/resume"
-        title = "thithuha.github.io"
+        title = "thithuha.github.io/resume"
 
         [[params.contact.list]]
         class = "linkedin"
@@ -303,19 +303,19 @@ DefaultContentLanguage = "en"
             title = "Profil"
             summary = """
 ##### Motivations:
--
-- Goût de l'échange et du contact humain.
--
+- Etre de porte-parole du produit
+- Agir en tant qu'ambassadeur du produit à l'interne et à l'externe et en tant que contact principal pour les queries liées au produit.
 - Définir la vision du produit, le road-map et les opportunités de croissance.
+- Goût de l'échange et du contact humain.
 
 ##### Domaines d'Expertise:
 - L'expérience dans la vente et le marketing.
 - Expérience en développement de logiciels, y compris connaissance des langages de codage.
--
--
+- Décrire le parcours client et modéliser les conceptions de produits pour cartographier les dépendances des produits.
+- Capacité à travailler avec des équipes interfonctionnelles pour atteindre un objectif commun.
 
 ##### Ambitions/Défis:
--
+- Résolvez les problèmes liés aux produits, complétez l'analyse des compromis pour rester sur la bonne voie par rapport aux engagements livrables de l'entreprise.
 - Évaluer la progression du produit à chaque itération.
 - Maximiser la valeur du produit résultant du travail de l'équipe de développement.
 
@@ -343,7 +343,7 @@ DefaultContentLanguage = "en"
         company = "APM Monaco, Lyon"
         details = """
 - Agir à tout moment comme ambassadeur de la Marque
-- Apporter une expertise technique.
+- Stimuler l'activité du magasin et développer la clientèle.
 - Assurer un service après-vente.
 """
 
@@ -373,10 +373,10 @@ DefaultContentLanguage = "en"
         dates = "2017"
         company = "Bazarchic, Paris"
         details = """
-- Identifier les contraintes d'un projet.
-- Réaliser le design d'un site web.
-- Concevoir des interfaces UX/UI
-- Présenter un nouveau produit à différents intervenants.
+- Réaliser le design d'un site web responsive.
+- Intégration des programmes CMS clients et des flux de données dans les sites Web.
+- Optimisation des fonctionnalités visuelles pour une vitesse et une évolutivité maximales.
+- Assurer le fonctionnement et la stabilité du site Web sur tous les appareils, ordinateur, mobile, tablette.
 """
 
         [[languages.fr.params.jobs.list]]
@@ -386,8 +386,8 @@ DefaultContentLanguage = "en"
         details = """
 - Définir le concept, la thématique d'un produit.
 - Opérer des choix techniques, esthétiques, économiques pour un produit.
-- Présenter une maquette, prototype à un client.
-- Évaluer la conformité artistique et technique de modèles, prototypes.
+- Concevoir des images visuelles pour les sites Web et s'assurer qu'elles sont conformes à l'image de marque des clients.
+- Assurer la liaison avec les développeurs back-end pour s'assurer que la logique Web et d'application est correctement intégrée.
 """
 
 
@@ -447,28 +447,28 @@ DefaultContentLanguage = "en"
         title = "Compétences Informatiques"
 
             [[languages.fr.params.skills.list]]
-            skill = "Typescript"
-            level = "90%"
-
-            [[languages.fr.params.skills.list]]
-            skill = "Shell"
-            level = "90%"
-
-            [[languages.fr.params.skills.list]]
-            skill = "Python"
-            level = "80%"
-
-            [[languages.fr.params.skills.list]]
-            skill = "Golang"
-            level = "75%"
-
-            [[languages.fr.params.skills.list]]
-            skill = "Rust"
+            skill = "Software Development"
             level = "60%"
 
             [[languages.fr.params.skills.list]]
-            skill = "C"
-            level = "20%"
+            skill = "Web Development"
+            level = "70%"
+
+            [[languages.fr.params.skills.list]]
+            skill = "UX/UI Design"
+            level = "90%"
+
+            [[languages.fr.params.skills.list]]
+            skill = "Web Design"
+            level = "90%"
+
+            [[languages.fr.params.skills.list]]
+            skill = "Agile Methodologies"
+            level = "40%"
+
+            [[languages.fr.params.skills.list]]
+            skill = "User Stories Definition"
+            level = "50%"
 
         # Profile section
         [languages.fr.params.profile]
