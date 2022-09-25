@@ -142,15 +142,14 @@ DefaultContentLanguage = "en"
 ##### Motivations:
 - Serve as the voice of the product.
 - Act as an ambassador for the product internally and externally and as the primary contact for queries related to the product.
-- Define product vision, road-map and growth opportunities.
+- Define product vision, roadmap and growth opportunities.
 - Desire for interaction and human contact.
 
 ##### Areas of Expertise:
 - The experience in sales and marketing.
-- Experience with software development, including knowledge of coding languages.
+- Experience with software development, including knowledge of programming languages.
 - Outlining the customer journey and mocking up product designs to mapping product dependencies.
 - Ability to work with cross-functional teams to deliver on a common goal.
-
 
 ##### Challenges:
 - Solve product-related problems, complete trade-off analysis to stay on track towards business deliverable commitments.
@@ -200,10 +199,10 @@ DefaultContentLanguage = "en"
         dates = "2018 - 2019"
         company = "Acanthe paris, Paris"
         details = """
-- Creating marketing materials such as brochures, flyers, and catalogs for print advertising campaign.
-- Developing and executing marketing campaigns using newsletter.
-- Incorporating brand elements and relevant market research findings into website.
-- Implementing strategies for improving conversion rates and generating leads from website visitors.
+- Create marketing materials such as brochures, flyers, and catalogs for print advertising campaign.
+- Develop and executing marketing campaigns using newsletter.
+- Incorporate brand elements and relevant market research findings into website.
+- Implement strategies for improving conversion rates and generating leads from website visitors.
 """
 
         [[params.jobs.list]]
@@ -211,10 +210,10 @@ DefaultContentLanguage = "en"
         dates = "2017"
         company = "Bazarchic, Paris"
         details = """
-- Designing engaging and responsive landing pages.
-- Integrating client CMS programs and data feeds into websites.
-- Optimising visual features for maximum speed and scalability.
-- Ensuring website function and stability across devices i.e. desktop, mobile, tablet.
+- Design engaging and responsive landing pages.
+- Integrate client CMS programs and data feeds into websites.
+- Optimise visual features for maximum speed and scalability.
+- Ensure website reliability and stability across devices i.e. desktop, mobile, tablet.
 """
 
         [[params.jobs.list]]
@@ -222,15 +221,11 @@ DefaultContentLanguage = "en"
         dates = "2016"
         company = "Wall Market, Paris"
         details = """
-- Conceptualizing creative ideas of product.
-- Establishing design guidelines, standards, and best practices.
-- Designing visual imagery for websites and ensuring that they are in line with branding for clients.
-- Liaising with back-end developers to ensure web and app logic is properly integrated.
+- Conceptualize creative ideas of product.
+- Establish design guidelines, standards, and best practices.
+- Design visual imagery for websites and ensuring that they are in line with branding for clients.
+- Synchronize with backend developers to ensure web and app logic is properly integrated.
 """
-
-
-
-
 
     # Hackathons section
     [params.hackathons]
@@ -303,22 +298,21 @@ DefaultContentLanguage = "en"
             title = "Profil"
             summary = """
 ##### Motivations:
-- Etre de porte-parole du produit
-- Agir en tant qu'ambassadeur du produit à l'interne et à l'externe et en tant que contact principal pour les queries liées au produit.
-- Définir la vision du produit, le road-map et les opportunités de croissance.
+- Etre porte-parole du produit
+- Agir en tant qu'ambassadeur du produit, à l'intérieur et extérieur de l'entreprise, en tant que contact principal pour les requêtes liées au produit.
+- Définir la vision du produit, la feuille de route et les opportunités de croissance.
 - Goût de l'échange et du contact humain.
 
 ##### Domaines d'Expertise:
-- L'expérience dans la vente et le marketing.
-- Expérience en développement de logiciels, y compris connaissance des langages de codage.
-- Décrire le parcours client et modéliser les conceptions de produits pour cartographier les dépendances des produits.
+- Expérience dans la vente et le marketing.
+- Expérience en développement de logiciels, y compris connaissance des langages de programmation.
+- Décrire le parcours client et modéliser les conceptions de produits pour cartographier les dépendances.
 - Capacité à travailler avec des équipes interfonctionnelles pour atteindre un objectif commun.
 
 ##### Ambitions/Défis:
-- Résolvez les problèmes liés aux produits, complétez l'analyse des compromis pour rester sur la bonne voie par rapport aux engagements livrables de l'entreprise.
+- Résoudre des problèmes liés aux produits, compléter l'analyse des compromis pour rester sur la bonne voie par rapport aux engagements livrables de l'entreprise.
 - Évaluer la progression du produit à chaque itération.
 - Maximiser la valeur du produit résultant du travail de l'équipe de développement.
-
 """
 
         # Experiences section
@@ -332,7 +326,7 @@ DefaultContentLanguage = "en"
         dates = "2022"
         company = "Isabel Marant, Paris"
         details = """
-- Établissez de véritables relations avec les clients grâce à une sensibilisation réfléchie et cohérente.
+- Établir de véritables relations avec les clients grâce à une sensibilisation réfléchie et cohérente.
 - Maintenir un excellent niveau de service à la clientèle.
 - Aider au processus de vente en maintenant un magasin entièrement approvisionné.
 """
@@ -342,9 +336,9 @@ DefaultContentLanguage = "en"
         dates = "2021"
         company = "APM Monaco, Lyon"
         details = """
-- Agir à tout moment comme ambassadeur de la Marque
+- Agir à tout moment comme ambassadeur de la Marque.
 - Stimuler l'activité du magasin et développer la clientèle.
-- Fournir des détails sur les politiques de retour et les procédures de traitement.
+- Procéder et fournir des détails sur les politiques de retour et les procédures de traitement.
 """
 
         [[languages.fr.params.jobs.list]]
@@ -352,7 +346,7 @@ DefaultContentLanguage = "en"
         dates = "2019 - 2020"
         company = "Balmain, Paris"
         details = """
-- Vente et developpement commercial avec objectif.
+- Accomplir et développer des objectifs commerciaux.
 - Faire fonctionner les caisses enregistreuses et clôturer les revenus quotidiens.
 - Gérer la marchandise en fonction de la demande.
 """
@@ -362,8 +356,8 @@ DefaultContentLanguage = "en"
         dates = "2018 - 2019"
         company = "Acanthe paris, Paris"
         details = """
-- Création de supports marketing tels que brochures, dépliants et catalogues pour la campagne publicitaire imprimée.
-- Élaboration et exécution de campagnes marketing à l'aide de la newsletter.
+- Créer de supports marketing tels que brochures, dépliants et catalogues pour la campagne publicitaire imprimée.
+- Élaborer et exécuter des campagnes marketing à l'aide de newsletters.
 - Incorporer des éléments de marque et des résultats d'études de marché pertinents sur le site Web.
 - Mettre en œuvre des stratégies pour améliorer les taux de conversion et générer des prospects auprès des visiteurs du site Web.
 """
@@ -374,8 +368,8 @@ DefaultContentLanguage = "en"
         company = "Bazarchic, Paris"
         details = """
 - Réaliser le design d'un site web responsive.
-- Intégration des programmes CMS clients et des flux de données dans les sites Web.
-- Optimisation des fonctionnalités visuelles pour une vitesse et une évolutivité maximales.
+- Intégrer des programmes CMS clients et des flux de données dans les sites Web.
+- Optimiser des fonctionnalités visuelles pour une vitesse et une évolutivité maximales.
 - Assurer le fonctionnement et la stabilité du site Web sur tous les appareils, ordinateur, mobile, tablette.
 """
 
@@ -386,8 +380,8 @@ DefaultContentLanguage = "en"
         details = """
 - Définir le concept, la thématique d'un produit.
 - Opérer des choix techniques, esthétiques, économiques pour un produit.
-- Concevoir des images visuelles pour les sites Web et s'assurer qu'elles sont conformes à l'image de marque des clients.
-- Assurer la liaison avec les développeurs back-end pour s'assurer que la logique Web et d'application est correctement intégrée.
+- Concevoir des visuels pour les sites Web et assurer la conformité avec l'image de marque des clients.
+- Synchroniser avec les développeurs backend pour assurer la cohésion entre le design et la logique web/applicative.
 """
 
 
@@ -467,7 +461,7 @@ DefaultContentLanguage = "en"
             level = "40%"
 
             [[languages.fr.params.skills.list]]
-            skill = "User Stories "
+            skill = "Définition User Stories"
             level = "50%"
 
         # Profile section
