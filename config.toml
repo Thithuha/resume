@@ -2,7 +2,7 @@
 
 baseurl = "https://mvaude.github.io/resume/"
 languageCode = "en-us"
-title = "Maxime Vaude CV"
+title = "Thi Thu Ha CV"
 theme = "orbit"
 googleAnalytics = "UA-120354426-2"
 
@@ -18,7 +18,7 @@ DefaultContentLanguage = "en"
 
 # Meta
     description = "Resume"
-    author = "Maxime Vaude"
+    author = "Thi Thu Ha Nguyen"
 
 # Theme styles
 
@@ -33,8 +33,8 @@ DefaultContentLanguage = "en"
 
     # Profile section
     [params.profile]
-        name = "Maxime Vaude"
-        tagline = "Freelance Cloud and Software Architect, DevSecOps"
+        name = "Thi Thu Ha Nguyen"
+        tagline = "Product Owner"
         avatar = "profile.jpg"
 
     # Avaibility
@@ -49,32 +49,26 @@ DefaultContentLanguage = "en"
         [[params.contact.list]]
         class = "email"
         icon = "fa-envelope"
-        url = "mailto:maxime.vaude@gmail.com"
-        title = "maxime.vaude@gmail.com"
+        url = "mailto:thithuha.nguyen94@gmail.com"
+        title = "thithuha.nguyen94@gmail.com"
 
         [[params.contact.list]]
         class = "website"
         icon = "fa-globe"
-        url = "//mvaude.github.io"
-        title = "mvaude.github.io"
+        url = "//thithuha.github.io"
+        title = "thithuha.github.io"
 
         [[params.contact.list]]
         class = "linkedin"
         icon = "fa-linkedin"
-        url = "//linkedin.com/in/maxime-vaude-8b22465a"
-        title = "linkedin.com/in/maximevaude"
+        url = "//linkedin.com/in/thithuha"
+        title = "linkedin.com/in/thithuha"
 
         [[params.contact.list]]
         class = "github"
         icon = "fa-github"
-        url = "//github.com/mvaude"
-        title = "github.com/mvaude"
-
-        [[params.contact.list]]
-        class = "twitter"
-        icon = "fa-twitter"
-        url = "//twitter.com/wefirm"
-        title = "@wefirm"
+        url = "//github.com/Thithuha"
+        title = "github.com/Thithuha"
 
     # Education section
     [params.education]
@@ -82,38 +76,24 @@ DefaultContentLanguage = "en"
         title = "Education"
 
         [[params.education.list]]
-        degree = "Baccalauréat Scientifique"
-        college = "Institution Saint Joseph"
-        dates = "2010"
+        degree = "Full Stack Web Developer"
+        college = "Le Wagon"
+        dates = "2021"
 
         [[params.education.list]]
-        college = "EPITECH"
-        dates = "2010 - 2011"
+        degree = "Management du luxe"
+        college = "LVMH - La Samaritaine"
+        dates = "2020"
 
         [[params.education.list]]
-        degree = "Programme Grandes Ecoles de Commerce"
-        college = "IDRAC Business School"
-        dates = "2011 - 2013"
+        degree = "Chef de Projet Multimédia"
+        college = "IESA Institut d'études supérieures des arts"
+        dates = "2015 - 2018"
 
         [[params.education.list]]
-        degree = "Introduction to Statistics: Descriptive Statistics"
-        college = "BerkeleyX"
-        dates = "2013"
-
-        [[params.education.list]]
-        degree = "Introduction to Computer Science and Programming Using Python"
-        college = "MITx"
-        dates = "2014"
-
-        [[params.education.list]]
-        degree = "Introduction to Linux"
-        college = "LinuxFoundationX"
-        dates = "2014"
-
-        [[params.education.list]]
-        degree = "Certificat en Technologie Numérique"
-        college = "42"
-        dates = "2014 - 2019"
+        degree = "UTS Foundation Studies - Arts and Social Sciences"
+        college = "UTS University of Technology Sydney"
+        dates = "2012 - 2014"
 
     # Languages section
     [params.language]
@@ -121,7 +101,7 @@ DefaultContentLanguage = "en"
         title = "Languages"
 
         [[params.language.list]]
-        language = "French"
+        language = "Vietnamese"
         level = "Native"
 
         [[params.language.list]]
@@ -129,8 +109,8 @@ DefaultContentLanguage = "en"
         level = "Professional"
 
         [[params.language.list]]
-        language = "Spanish"
-        level = "Scholar"
+        language = "French"
+        level = "Professional"
 
     # Interests section
     [params.interests]
@@ -138,10 +118,10 @@ DefaultContentLanguage = "en"
         title = "Interests"
 
         [[params.interests.list]]
-        interest = "Cinema"
+        interest = "Art"
 
         [[params.interests.list]]
-        interest = "Video Games"
+        interest = "Cinema"
 
         [[params.interests.list]]
         interest = "Traveling"
@@ -160,24 +140,22 @@ DefaultContentLanguage = "en"
         title = "Career Profile"
         summary = """
 ##### Motivations:
-- Satisfaction of my clients.
-- Taste for challenges, diversity in search of perfection.
+- Serve as the voice of the product.
+- Act as an ambassador for the product internally and externally and as the primary contact for queries related to the product.
+- Define product vision, road-map and growth opportunities. 
 - Desire for interaction and human contact.
-- Search for constant evolution.
-- Adaptability and optimization of work methodologies according to missions and teams.
-- Autonomy in the choice of technologies by targeting innovation and efficiency.
 
 ##### Areas of Expertise:
-- Flexibility and responsiveness to address to fluctuations in an activity.
-- Develop data analysis tools.
-- Design solutions based on cloud or hybrid architecture.
-- Develop Release and Quality Assurance solutions and methodologies for Continuous Integration and Continuous Delivery.
-- Bring an outside look and put new ideas in the service of a win / win relationship.
+- The experience in sales and marketing.
+- Experience with software development, including knowledge of coding languages.
+- Outlining the customer journey and mocking up product designs to mapping product dependencies.
+- Ability to work with cross-functional teams to deliver on a common goal.
+
 
 ##### Challenges:
-- Implement cyber security solutions in the company calling on me and raise awareness / educate its various stakeholders.
-- Develop Artificial Intelligences to improve human relations and optimize certain interactions.
-- Design financial optimization solutions.
+- Solve product-related problems, complete trade-off analysis to stay on track towards business deliverable commitments.
+- Evaluating product progress at each iteration.
+- Maximizing the value of the product resulting from the work of the development team.
 """
 
     # Experiences section
@@ -187,94 +165,71 @@ DefaultContentLanguage = "en"
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Freelancer"
-        dates = "2019 - 2022"
-        company = "MV Computing, Paris"
+        position = "Sale Advisor"
+        dates = "2022"
+        company = "Isabel Marant, Paris"
         details = """
-- automate tasks (building, testing, delivery, deployment, accounting, reports).
-- integrate teams to develop, deploy and industrialize projects.
+- Build genuine relationships with clients through thoughtful and consistent outreach.
+- Maintain an excellent level of customer service.
+- Assist with the sales process by maintaining a fully stocked store.
 """
 
 
         [[params.jobs.list]]
-        position = "DevSecOps"
-        dates = "2019 - 2021"
-        company = "Geodis SCO, Paris"
+        position = "Sale Advisor"
+        dates = "2021"
+        company = "APM Monaco, Lyon"
         details = """
-- setup and support multiple cloud environments for different projects with CI/CD (Azure, GCP, terraform).
-- manage source code repositories, librairies and versioning.
-- manage security in cloud environments (VPC, gateway, SSL, VPN Gateway).
-- manage and optimize Kubernetes clusters / Docker images.
-- share knowledge and good practices around microservices and cloud environments.
+- Act as an ambassador for the Brand at all times.
+- Drive store business and grow the client base.
+- Provide details on return policies and handling procedures.
 """
 
         [[params.jobs.list]]
-        position = "Devops / Product Owner"
+        position = "Sale Advisor"
+        dates = "2019 - 2020"
+        company = "Balmain, Paris"
+        details = """
+- Meet and exceed sales goals.
+- Operate cash registers and close daily revenues.
+- Manage the merchandise promptly according to the demand.
+"""
+
+        [[params.jobs.list]]
+        position = "Web Marketer and Designer"
         dates = "2018 - 2019"
-        company = "Scaleway, Paris"
+        company = "Acanthe paris, Paris"
         details = """
-- manage production incidents resolutions and follow-up with support teams.
-- define and plan priorities on the roadmap with the team.
-- improving developers workflow defining procedures and implementing tools.
-- continuous monitoring, alerting, configuration management on distributed architecture.
-- deployment scripting and virtualization (salt, pxe, qemu).
+- Creating marketing materials such as brochures, flyers, and catalogs for print advertising campaign.
+- Developing and executing marketing campaigns using newsletter.
+- Incorporating brand elements and relevant market research findings into website.
+- Implementing strategies for improving conversion rates and generating leads from website visitors.
 """
 
         [[params.jobs.list]]
-        position = "R&D Engineer"
-        dates = "2016 - 2017"
-        company = "Scality, Paris"
+        position = "Web Designer"
+        dates = "2017"
+        company = "Bazarchic, Paris"
         details = """
-- develop a tool to dynamically patch Node.js private dependencies (for example for end-to-end testing of a specific development branch on each dependency).
-- set up the CI (Circle CI / AWS) with definition of the different pipelines.
-- deploy serverless micro-services to manage resources and costs in the cloud (AWS) with Terraform (cloud resources watchers and killers using AWS CloudWatch, Lambda, SQS, EC2, S3).
-- make the Scality S3 connector's installer compatible with offline installations.
-- develop tools for a detailed report on the cost and use of resources in the cloud by each member or team of the organization.
-- monitor the Github activities of the organization (TICK Stack with Influx DB).
+- Designing engaging and responsive landing pages.
+- Integrating client CMS programs and data feeds into websites.
+- Optimising visual features for maximum speed and scalability.
+- Ensuring website function and stability across devices i.e. desktop, mobile, tablet.
 """
 
         [[params.jobs.list]]
-        position = "QA Developer"
+        position = "Graphiste - Web Designer"
         dates = "2016"
-        company = "Scality, Paris"
+        company = "Wall Market, Paris"
         details = """
-- develop series of integration tests for the product's web interface (pytest, docker, selenium) with automated build in the CI.
-"""
-
-        [[params.jobs.list]]
-        position = "Release Engineer"
-        dates = "2015 - 2016"
-        company = "Scality, Paris"
-        details = """
-- migrate from svn to git.
-- define different test pipelines (development and release).
-- implement a Jenkins CI with a cloud infrastructure (Rackspace) using IaC (Infrastructure as Code).
-- set up Buildbot CI with docker workers for the static test checkers, linters, unit tests suites.
-- Develop engineering KPIs, compute them and display them on dashboards in offices.
-- Define Release and Contribution processes based on agile methodologies (mainly SCRUM and KANBAN).
-- develop a tool to aggregate Open-Source licenses for software and system dependencies.
-- develop a git merging robot. It includes pipelines and tells developers and reviewers where a merge block comes from and what are the missing steps to integrate the branch (ticket definition, test failure).
+- Conceptualizing creative ideas of product.
+- Establishing design guidelines, standards, and best practices.
+- Designing visual imagery for websites and ensuring that they are in line with branding for clients.
+- Liaising with back-end developers to ensure web and app logic is properly integrated.
 """
 
 
-    # Projects section
-    [params.projects]
-        enable = true
-        icon = "fa-archive"
-        title = "Projects"
-        intro = "My main passion is to automate anything. If a computer can do something that we don't enjoy better than us, why should we bother wasting time doing it? I love to try different open source projects and add them to some architectures if I find them efficient for my needs."
 
-        [[params.projects.list]]
-	    title = "azeroth"
-	    tagline = "FaaS/CaaS/PaaS architecture with CI&CD from Self-Hosted/Cloud/Hybrid infrastructre as IaC. Simply says, an auto-scaling infrastructure to automate services lifecycles."
-
-        [[params.projects.list]]
-	    title = "skynet"
-	    tagline = "Home Central computer managing different VMs and services to manage all different computer needs at home (NAS, Workstation with GPU Passthrough, containers services)."
-
-        [[params.projects.list]]
-	    title = "toby"
-	    tagline = "Cryptocurrencies trading and mining automator."
 
 
     # Hackathons section
@@ -283,33 +238,13 @@ DefaultContentLanguage = "en"
         icon = "fa-trophy"
         title = "Hackathons"
 
-        [[params.hacks.list]]
-            theme = "Object & Cold Storage - 3rd price"
-	    url = "https://github.com/MDHackathon"
-            dates = "2018"
-            organisator = "Scaleway, Paris"
-            details = "We developed and deployed and architecture letting you manage your data automatically with functions using openFaaS. There were a S3 self-hosted connector to manage cold storage interface. The functions just needed 2 different S3 endpoints with some policies to manipulate the data as desired."
-
-        [[params.hacks.list]]
-            theme = "S3 Connector - no contest"
-            dates = "2015"
-            organisator = "Scality, Paris"
-            details = "We were 30 students selected to develop a S3 connector with the object storage solution to do a PoC."
 
         [[params.hacks.list]]
             theme = "Culture Experience Days - no contest"
 	    url = "https://www.adami.fr/evenements/culture-experience-days/"
             dates = "2015"
             organisator = "Adami, Paris"
-            details = "The purpose were to offer, thanks to the technology, a different experience between an artist and his public. We decided to take the use case of an improvisator: we developed a connected t-shirt reflecting twitter vote from the public through different blinkings colors LED."
-
-        [[params.hacks.list]]
-            theme = "Connected Challenge - 2nd price, Pebble price, DigitasLBi price"
-	    url = "http://feelathome.strikingly.com/"
-            dates = "2015"
-            organisator = "Agorize, Paris"
-            details = "We decided to use all the different partners' APIs to integrate it in a smart alarm to make your life easier the morning."
-
+            details = "The purpose were to offer, thanks to the technology, a different experience between an artist and his public. We decided to take the use case of an improvisator: we developed a connected t-shirt reflecting twitter votes from the public through different blinkings colors LED."
 
     # Skills section
     [params.skills]
@@ -318,33 +253,33 @@ DefaultContentLanguage = "en"
         title = "Skills & Proficiency"
 
         [[params.skills.list]]
-        skill = "Typescript"
-        level = "90%"
-
-        [[params.skills.list]]
-        skill = "Shell"
-        level = "90%"
-
-        [[params.skills.list]]
-        skill = "Python"
-        level = "80%"
-
-        [[params.skills.list]]
-        skill = "Golang"
-        level = "75%"
-
-        [[params.skills.list]]
-        skill = "Rust"
+        skill = "Software Development"
         level = "60%"
 
         [[params.skills.list]]
-        skill = "C"
-        level = "20%"
+        skill = "Web Development"
+        level = "70%"
+
+        [[params.skills.list]]
+        skill = "UX/UI Design"
+        level = "90%"
+
+        [[params.skills.list]]
+        skill = "Web Design"
+        level = "90%"
+
+        [[params.skills.list]]
+        skill = "Agile Methodologies"
+        level = "40%"
+
+        [[params.skills.list]]
+        skill = "User Stories Definition"
+        level = "50%"
 
     # Footer section
 
     [params.footer]
-        copyright = "Maxime Vaude"
+        copyright = "Thi Thu Ha Nguyen"
 
 
 ## French traduction section
@@ -368,24 +303,22 @@ DefaultContentLanguage = "en"
             title = "Profil"
             summary = """
 ##### Motivations:
-- Satisfaction de mes clients.
-- Goût du challenge, de la diversité en quête de perfectionnement.
+- 
 - Goût de l'échange et du contact humain.
-- Recherche d'une évolution constante.
-- Adaptabilité et optimisation des méthodologies de travail en fonction des missions et des équipes.
-- Autonomie dans le choix des technologies en ciblant l'innovation et l'efficacité.
+-
+- Définir la vision du produit, le road-map et les opportunités de croissance.
 
 ##### Domaines d'Expertise:
-- Répondre avec flexibilité et réactivité aux fluctuations d'une activité.
-- Développer des outils d'analyse de données.
-- Concevoir des solutions à base d'architecture cloud ou hybride.
-- Élaborer des solutions et des méthodologies de Release et Quality Assurance pour faire de la Continuous Integration et Continuous Delivery.
-- Apporter un regard extérieur et mettre des idées nouvelles au service d'une relation win/win.
+- L'expérience dans la vente et le marketing.
+- Expérience en développement de logiciels, y compris connaissance des langages de codage.
+-
+-
 
-##### Ambitions/Challenges:
-- Mettre en place des solutions de cyber-sécurité dans l'entreprise et sensibiliser/éduquer ses différents acteurs.
-- Développer des Intelligences Artificielles afin d'améliorer les relations humaines et optimiser certaines intéractions.
-- Concevoir des solutions d'optimisations financières.
+##### Ambitions/Défis:
+-
+- Évaluer la progression du produit à chaque itération.
+- Maximiser la valeur du produit résultant du travail de l'équipe de développement.
+
 """
 
         # Experiences section
@@ -395,92 +328,67 @@ DefaultContentLanguage = "en"
             title = "Expériences"
 
         [[languages.fr.params.jobs.list]]
-        position = "Freelance"
-        dates = "2019 - 2022"
-        company = "MV Computing, Paris"
+        position = "Sale Advisor"
+        dates = "2022"
+        company = "Isabel Marant, Paris"
         details = """
-- automatiser des tâches (building, testing, delivery, deployment, reporting).
-- intégrer des équipes pour développer et deployer des projets du prototypage à l'industrialisation.
+- Relation et suivi clients.
+- Proposer un service complémentaire à la vente.
+- Gestion des stocks et des approvisionnements.
 """
 
         [[languages.fr.params.jobs.list]]
-        position = "DevSecOps"
-        dates = "2019 - 2021"
-        company = "MV Computing, Paris"
+        position = "Sale Advisor"
+        dates = "2021"
+        company = "APM Monaco, Lyon"
         details = """
-- créer et déployer différents environements cloud pour différents projets avec CI/CD (Azure, GCP, terraform).
-- manager les répertoires de source code, les librairies et le versioning.
-- maintenir la sécurité des environements cloud (VPC, gateway, SSL, VPN Gateway).
-- créer, maintenir et optimiser des clusters Kubernetes / Docker images.
-- partager des connaissances et bonnes pratiques autour des architectures microservices et des environements cloud.
+- Agir à tout moment comme ambassadeur de la Marque
+- Apporter une expertise technique.
+- Assurer un service après-vente.
 """
 
         [[languages.fr.params.jobs.list]]
-        position = "Devops / Product Owner"
-        dates = "2018-2019"
-        company = "Scaleway, Paris"
+        position = "Sale Advisor"
+        dates = "2019 - 2020"
+        company = "Balmain, Paris"
         details = """
-- gérer les résolutions d'incidents de production et faire le suivi avec les équipes de support.
-- définir et planifier les priorités sur la feuille de route de l'entreprise avec l'équipe.
-- améliorer le flux de travail des développeurs en définissant des procédures et des outils de mise en œuvre.
-- surveillance continue, alertes, gestion de la configuration sur une architecture distribuée.
-- script de déploiement et virtualisation (salt, pxe, qemu).
+- Vente et developpement commercial avec objectif.
+- Gestion de la caisse.
+- Réassort de l’espace de vente et du Merchandising.
 """
 
         [[languages.fr.params.jobs.list]]
-        position = "Ingénieur R&D"
-        dates = "2016 - 2017"
-        company = "Scality, Paris"
+        position = "Web Marketer and Designer"
+        dates = "2018 - 2019"
+        company = "Acanthe paris, Paris"
         details = """
-- développer un outil pour corriger dynamiquement les dépendances privées de Node.js (par exemple, pour tester de bout en bout une branche de développement spécifique sur chaque dépendance).
-- mettre en place la CI (Circle CI / AWS) avec la définition des différents pipelines.
-- déployer des micro-services serverless pour gérer les ressources et les coûts dans le cloud (AWS) avec Terraform (observateurs et destructeurs de ressources dans le cloud utilisant AWS CloudWatch, Lambda, SQS, EC2, S3).
-- rendre l'installateur du connecteur Scality S3 compatible avec les installations hors ligne.
-- développer des outils pour un rapport détaillé sur le coût et l'utilisation des ressources dans le cloud par chaque membre ou équipe de l'organisation.
-- surveiller les activités Github de l'organisation pour analyser les périodes creuses (TICK Stack avec Influx DB).
+- Création de supports marketing tels que brochures, dépliants et catalogues pour la campagne publicitaire imprimée.
+- Élaboration et exécution de campagnes marketing à l'aide de la newsletter.
+- Incorporer des éléments de marque et des résultats d'études de marché pertinents sur le site Web.
+- Mettre en œuvre des stratégies pour améliorer les taux de conversion et générer des prospects auprès des visiteurs du site Web.
 """
 
         [[languages.fr.params.jobs.list]]
-        position = "Développeur QA"
-        dates = "2016 - 2016"
-        company = "Scality, Paris"
+        position = "Web Designer"
+        dates = "2017"
+        company = "Bazarchic, Paris"
         details = """
-- développer une série de tests d’intégration pour l’interface Web du produit (pytest, docker, sélénium) avec une construction automatisée dans le CI.
+- Identifier les contraintes d'un projet.
+- Réaliser le design d'un site web.
+- Concevoir des interfaces UX/UI
+- Présenter un nouveau produit à différents intervenants.
 """
 
         [[languages.fr.params.jobs.list]]
-        position = "Ingénieur de Release"
-        dates = "2015 - 2016"
-        company = "Scality, Paris"
+        position = "Graphiste - Web Designer"
+        dates = "2016"
+        company = "Wall Market, Paris"
         details = """
-- migrer de svn à git.
-- définir différents pipelines de tests (développement et release).
-- implémenter une CI Jenkins avec une infrastructure cloud (Rackspace) utilisant IaC (Infrastructure as Code).
-- configurer une CI Buildbot avec des workers docker pour les contrôleurs de tests statiques, les linters et les suites de tests unitaires.
-- développer des rapports de KPIs d’ingénierie affichés sur des écrans dans les bureaux.
-- définir les processus de libération et de contribution basés sur des méthodologies agiles (principalement SCRUM et KANBAN).
-- développer un outil permettant d'agréger les licences Open Source pour les dépendances logicielles et système.
-- développer un robot de fusion git. Il inclut les pipelines et indique aux développeurs et aux reviewers d'où provient un bloc de fusion et quelles sont les étapes manquantes pour intégrer la branche (définition du ticket, échec du test).
+- Définir le concept, la thématique d'un produit.
+- Opérer des choix techniques, esthétiques, économiques pour un produit.
+- Présenter une maquette, prototype à un client.
+- Évaluer la conformité artistique et technique de modèles, prototypes.
 """
-
-        # Projects section
-        [languages.fr.params.projects]
-            enable = true
-            icon = "fa-archive"
-            title = "Projets"
-            intro = "Ma principale passion est d'automatiser n'importe quoi. Pourquoi perdre du temps à faire quelque chose qu'un ordinaeur peut faire mieux que nous? J'aime essayer différents projets opensource et les ajouter à certaines architectures en fonction de leur pertinence et mes besoins."
-
-            [[languages.fr.params.projects.list]]
-	     title = "azeroth"
-	     tagline = "FaaS/CaaS/PaaS architecture avec CI&CD pour Self-Hosted/Cloud/Hybrid infrastructure en IaC. Simplement dit, une infrastructure scalable pour automatiser les cycles de vie des services."
-
-            [[languages.fr.params.projects.list]]
-	     title = "skynet"
-	     tagline = "Ordinateur central gérant différentes machines virtuelles et services pour répondre à tout les besoins informatiques dans une maison (NAS, station de travail avec GPU Passthrough, services de conteneurs)."
-
-            [[languages.fr.params.projects.list]]
-	     title = "toby"
-	     tagline = "Cryptocurrencies trading et mining automator."
 
 
         # Hackathons section
@@ -489,18 +397,6 @@ DefaultContentLanguage = "en"
             icon = "fa-trophy"
             title = "Hackathons"
 
-            [[languages.fr.params.hacks.list]]
-                theme = "Object & Cold Storage - 3ème prix"
-	            url = "https://github.com/MDHackathon"
-                dates = "2018"
-                organisator = "Scaleway, Paris"
-                details = "Nous avons développé et déployé une architecture permettant de gérer ses données automatiquement avec des fonctions utilisant openFaaS. Un connecteur S3 auto-hébergé permettait de gérer l’interface de stockage froid. Les fonctions avaient simplement besoin de 2 gateways S3 différentes avec certaines règles pour manipuler les données à volonté."
-
-            [[languages.fr.params.hacks.list]]
-                theme = "S3 Connecteur - pas de compétition"
-                dates = "2015"
-                organisator = "Scality, Paris"
-                details = "Nous étions 30 étudiants sélectionnés pour développer un connecteur S3 avec la solution de stockage d’objets pour effectuer un PoC."
 
             [[languages.fr.params.hacks.list]]
                 theme = "Culture Experience Days - pas de compétition"
@@ -509,13 +405,7 @@ DefaultContentLanguage = "en"
                 organisator = "Adami, Paris"
                 details = "Le but était d'offrir, grâce à la technologie, une expérience différente entre un artiste et son public. Nous avons décidé de prendre le cas d'un improvisateur: nous avons développé un t-shirt connecté reflétant les votes Twitter du public à travers différentes couleurs clignotantes LED."
 
-            [[languages.fr.params.hacks.list]]
-                theme = "Connected Challenge - 2ème prix, prix Pebble, prix DigitasLBi"
-	            url = "http://feelathome.strikingly.com/"
-                dates = "2015"
-                organisator = "Agorize, Paris"
-                details = "Nous avons décidé d'utiliser les API des différents partenaires pour l'intégrer dans une alarme intelligente afin de se simplifier la vie au réveil."
-
+            
         # Languages section
         [languages.fr.params.language]
             enable = true
@@ -523,15 +413,15 @@ DefaultContentLanguage = "en"
 
             [[languages.fr.params.language.list]]
             language = "Français"
-            level = "Natif"
+            level = "Professionnel"
 
             [[languages.fr.params.language.list]]
             language = "Anglais"
             level = "Professionnel"
 
             [[languages.fr.params.language.list]]
-            language = "Espagnol"
-            level = "Scolaire"
+            language = "Vietnamien"
+            level = "Maternelle"
 
         # Interests section
         [languages.fr.params.interests]
@@ -539,10 +429,10 @@ DefaultContentLanguage = "en"
             title = "Intérêts"
 
             [[languages.fr.params.interests.list]]
-            interest = "Cinéma"
+            interest = "Art"
 
             [[languages.fr.params.interests.list]]
-            interest = "Jeux vidéo"
+            interest = "Cinéma"
 
             [[languages.fr.params.interests.list]]
             interest = "Voyages"
@@ -582,6 +472,6 @@ DefaultContentLanguage = "en"
 
         # Profile section
         [languages.fr.params.profile]
-            name = "Maxime Vaude"
-            tagline = "Développeur Logiciel Freelance, Devops, Product Owner"
+            name = "Thi Thu Ha Nguyen"
+            tagline = "Product Owner"
             avatar = "profile.jpg"
