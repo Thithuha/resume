@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "https://mvaude.github.io/resume/"
+baseurl = "https://thithuha.github.io/resume/"
 languageCode = "en-us"
 title = "Thi Thu Ha CV"
 theme = "orbit"
@@ -142,7 +142,7 @@ DefaultContentLanguage = "en"
 ##### Motivations:
 - Serve as the voice of the product.
 - Act as an ambassador for the product internally and externally and as the primary contact for queries related to the product.
-- Define product vision, road-map and growth opportunities. 
+- Define product vision, road-map and growth opportunities.
 - Desire for interaction and human contact.
 
 ##### Areas of Expertise:
@@ -303,7 +303,7 @@ DefaultContentLanguage = "en"
             title = "Profil"
             summary = """
 ##### Motivations:
-- 
+-
 - Goût de l'échange et du contact humain.
 -
 - Définir la vision du produit, le road-map et les opportunités de croissance.
@@ -405,7 +405,7 @@ DefaultContentLanguage = "en"
                 organisator = "Adami, Paris"
                 details = "Le but était d'offrir, grâce à la technologie, une expérience différente entre un artiste et son public. Nous avons décidé de prendre le cas d'un improvisateur: nous avons développé un t-shirt connecté reflétant les votes Twitter du public à travers différentes couleurs clignotantes LED."
 
-            
+
         # Languages section
         [languages.fr.params.language]
             enable = true
