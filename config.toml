@@ -328,33 +328,33 @@ DefaultContentLanguage = "en"
             title = "Expériences"
 
         [[languages.fr.params.jobs.list]]
-        position = "Sale Advisor"
+        position = "Conseillère de vente"
         dates = "2022"
         company = "Isabel Marant, Paris"
         details = """
-- Relation et suivi clients.
-- Proposer un service complémentaire à la vente.
-- Gestion des stocks et des approvisionnements.
+- Établissez de véritables relations avec les clients grâce à une sensibilisation réfléchie et cohérente.
+- Maintenir un excellent niveau de service à la clientèle.
+- Aider au processus de vente en maintenant un magasin entièrement approvisionné.
 """
 
         [[languages.fr.params.jobs.list]]
-        position = "Sale Advisor"
+        position = "Conseillère de vente"
         dates = "2021"
         company = "APM Monaco, Lyon"
         details = """
 - Agir à tout moment comme ambassadeur de la Marque
 - Stimuler l'activité du magasin et développer la clientèle.
-- Assurer un service après-vente.
+- Fournir des détails sur les politiques de retour et les procédures de traitement.
 """
 
         [[languages.fr.params.jobs.list]]
-        position = "Sale Advisor"
+        position = "Conseillère de vente"
         dates = "2019 - 2020"
         company = "Balmain, Paris"
         details = """
 - Vente et developpement commercial avec objectif.
-- Gestion de la caisse.
-- Réassort de l’espace de vente et du Merchandising.
+- Faire fonctionner les caisses enregistreuses et clôturer les revenus quotidiens.
+- Gérer la marchandise en fonction de la demande.
 """
 
         [[languages.fr.params.jobs.list]]
