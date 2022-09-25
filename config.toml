@@ -55,7 +55,7 @@ DefaultContentLanguage = "en"
         [[params.contact.list]]
         class = "website"
         icon = "fa-globe"
-        url = "//thithuha.github.io"
+        url = "//thithuha.github.io/resume"
         title = "thithuha.github.io"
 
         [[params.contact.list]]
